@@ -62,4 +62,4 @@ Entrada inválida. Por favor, digite apenas números inteiros.
 🤝 Contribuições
 Sinta-se à vontade para sugerir melhorias, corrigir erros ou adicionar novas funcionalidades.
 
-Feito por Melvin Satíro
+Feito por Melvin Satiro
